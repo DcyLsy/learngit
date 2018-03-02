@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 cheshi
 Creating a new branch is quick AND simple.
 add coding: utf-8
+add /usr/bin/env
